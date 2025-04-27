@@ -1,0 +1,14 @@
+.title {
+    font-size: 48px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: black;
+    background-color: cadetblue;
+    text-align: center;
+}
+
+.recipe_link {
+    font-size: 24px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: green;
+    background-color: antiquewhite;
+}
